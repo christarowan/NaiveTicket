@@ -27,6 +27,7 @@ public class TicketMachine
      */
     public TicketMachine(Integer ticketCost)
     {
+        //stupid comment
         price = ticketCost;
         balance = 0;
         total = 0;
@@ -40,6 +41,7 @@ public class TicketMachine
     {
         return price;
     }
+         
     
     /**
      * Return ticketNumber.
@@ -50,7 +52,62 @@ public class TicketMachine
         return ticketNumber;
     }
 
-    /**
+    /**          -===
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * 
+     * aessssssssssssssssssssssssssssssssssssssssssssssssssss
      * Return the amount of money already inserted for the
      * next ticket.
      */
